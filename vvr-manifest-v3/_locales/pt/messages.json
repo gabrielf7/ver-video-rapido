@@ -1,0 +1,18 @@
+{
+  "extVVRName": {
+    "message": "Ver Vídeo Rápido",
+    "description": "O título da extensão, exibido na loja virtual."
+  },
+  "extVVRDesc": {
+    "message": "O Objetivo dessa extensão é acelerar os vídeos exibidos no navegador.",
+    "description":"A descrição da extensão, exibida na loja da web."
+  },
+  "notificationTitleInstall": {
+    "message": "Instalação",
+    "description": "Título da notificação de clique."
+  },
+  "notificationContentInstall": {
+    "message": "A extensão Ver Vídeo Rápido foi Instalada.",
+    "description": "Diz ao usuário que a extensão foi instalada."
+  }
+}

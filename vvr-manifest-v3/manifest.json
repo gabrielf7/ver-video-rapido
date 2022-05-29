@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extVVRName__",
+  "short_name":"VVR",
+  "description": "__MSG_extVVRDesc__",
+  "author": "GabrielF7",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches":["<all_urls>", "https://*/*", "http://*/*" ],
+      "js":["./Utils.js", "./content.js"]
+    }
+  ],
+  "host_permissions": ["<all_urls>",  "*://*/*"],
+  "default_locale": "pt",
+  "action": {
+    "default_title": "Ver Vídeo Rápido",
+    "default_popup": "./popup/popup.html",
+    "default_icon": {
+      "16": "./src/favicon-16x16.png",
+      "32": "./src/favicon-32x32.png",
+      "192": "./src/favicon-192x192.png"
+    }
+  },
+  "icons": {
+    "16": "./src/favicon-16x16.png",
+    "32": "./src/favicon-32x32.png",
+    "192": "./src/favicon-192x192.png"
+  },
+  "background": {
+    "service_worker": "./background/background.js"
+  },
+  "options_ui": {
+    "open_in_tab": true,
+    "page":"./options/index.html"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "activeTab",
+    "notifications"
+  ],
+  "homepage_url": "https://github.com/gabrielf7"
+}

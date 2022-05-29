@@ -1,0 +1,11 @@
+:root{
+  --fonteRelogio: 'OneSlice';
+  --cor-laranja-claro: rgba(255, 214, 10, 0.9);
+  --cor-laranja-escuro: rgba(255, 195, 0, 0.9);
+  --cor-azul-nivel1: rgba(0, 53, 102, 0.5);
+  --cor-azul-nivel2: rgba(0, 29, 61, 0.9);
+  --cor-azul-nivel3: rgba(0, 8, 20, 0.9);
+  --cor-branca-00: rgba(255, 255, 255, 0.8);
+  --cor-branca: rgba(255, 255, 255, 1);
+  --cor-preto: rgb(0, 0, 0, 1);
+}

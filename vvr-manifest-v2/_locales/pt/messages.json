@@ -1,0 +1,10 @@
+{
+  "extVVRName": {
+    "message": "Ver Vídeo Rápido",
+    "description": "O título da extensão, exibido na loja virtual."
+  },
+  "extVVRDesc": {
+    "message": "O Objetivo dessa extensão é acelerar os vídeos exibidos no navegador.",
+    "description":"A descrição da extensão, exibida na loja da web."
+  }
+}
