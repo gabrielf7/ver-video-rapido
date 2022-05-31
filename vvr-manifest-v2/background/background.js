@@ -10,7 +10,8 @@
 // }
 // [Executar]
 chrome.runtime.onInstalled.addListener((details=Object) => {
-  const URL_INSTALL = "./options/index.html"; const URL_UPDATE = "update.html"; 
+  const URL_INSTALL = chrome.runtime.getURL("options/index.html"); 
+  const URL_UPDATE = chrome.runtime.getURL("update.html"); 
   if(details.reason == "install"){ 
     chrome.tabs.create({
       url: URL_INSTALL
