@@ -15,6 +15,10 @@
 O repositório foi destinado a atualizar esta extensão proveniente do tutorial realizado pela internet. 
 Ao implementar, foi atualizado seu Manifest de extensão para versão 3, dentre outas modificações em nível de código.
 
+## / Download
+
+> [Escolher Navegador](https://github.com/gabrielf7/ver-video-rapido/wiki/Download)
+
 ## / Instalar (local)
 
 > [No Firefox](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Firefox)
