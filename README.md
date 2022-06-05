@@ -19,11 +19,18 @@ Ao implementar, foi atualizado seu Manifest de extensão para versão 3, dentre 
 
 > [Escolher Navegador](https://github.com/gabrielf7/ver-video-rapido/wiki/Download)
 
-## / Instalar (local)
+[<img src="https://raw.githubusercontent.com/gabrielf7/relogiohd/main/src/img-browser-edge.png" align="right" width="30">]()
+[<img src="https://raw.githubusercontent.com/gabrielf7/relogiohd/main/src/img-browser-firefox.png" align="right" width="30">]()
 
-> [No Firefox](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Firefox)
+## / Instalar
 
-> [No Chromium (Edge, Chrome...)](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Navegador-Baseado-no-Chromium)
+- Loja Virtual
+  > Para acessar as extensões, basta clicar no ícone do lado direito. | Status: Firefox [:hourglass_flowing_sand:] | Edge [:hourglass_flowing_sand:]
+
+- Local
+  > [No Firefox](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Firefox)
+
+  > [No Chromium (Edge, Chrome...)](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Navegador-Baseado-no-Chromium)
 
 ## / Referência
 
