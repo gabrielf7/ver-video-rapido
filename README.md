@@ -25,7 +25,7 @@ Ao implementar, foi atualizado seu Manifest de extensão para versão 3, dentre 
 ## / Instalar
 
 - Loja Virtual
-  > Para acessar as extensões, basta clicar no ícone do lado direito. | Status: Firefox [:hourglass_flowing_sand:] | Edge [:hourglass_flowing_sand:]
+  > Para acessar as extensões, basta clicar no ícone do lado direito. | Status: Firefox [:heavy_check_mark:] | Edge [:hourglass_flowing_sand:]
 
 - Local
   > [No Firefox](https://github.com/gabrielf7/ver-video-rapido/wiki/Instala%C3%A7%C3%A3o-no-Firefox)
