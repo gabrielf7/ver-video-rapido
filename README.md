@@ -19,6 +19,10 @@ Ao implementar, foi atualizado seu Manifest de extensão para versão 3, dentre 
 
 > [Escolher Navegador](https://github.com/gabrielf7/ver-video-rapido/wiki/Download)
 
+## / Documentação
+
+> [Instruções de uso](https://github.com/gabrielf7/ver-video-rapido/wiki/Documenta%C3%A7%C3%A3o)
+
 [<img src="https://raw.githubusercontent.com/gabrielf7/relogiohd/main/src/img-browser-edge.png" align="right" width="30">](https://microsoftedge.microsoft.com/addons/detail/ver-v%C3%ADdeo-r%C3%A1pido/ckgelbjdgmkmhcfblabiepdpkcknmiho)
 [<img src="https://raw.githubusercontent.com/gabrielf7/relogiohd/main/src/img-browser-firefox.png" align="right" width="30">](https://addons.mozilla.org/pt-BR/firefox/addon/ver-v%C3%ADdeo-r%C3%A1pido/)
 
